@@ -1,0 +1,12 @@
+{
+    "display_name": "Consolidate Messages",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "generate_interceptor": "ConsolidateMessages_joinMessages",
+    "js": "index.js",
+    "author": "jflores",
+    "version": "0.1.0",
+    "homePage": "https://github.com/jfserv/SillyTavern-ConsolidateMessages",
+    "autoUpdate": true
+}
