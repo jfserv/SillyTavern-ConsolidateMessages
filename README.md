@@ -5,7 +5,7 @@ If you naively trim the oldest messages from context, you'll have to rebuild the
 ## Install
 Within SillyTavern, go to the extensions tab and click on "Install extension". Paste the following URL into the input field and click "Save"
 ```
- https://gitgub.com/jfserv/SillyTavern-ConsolidateMessages
+ https://github.com/jfserv/SillyTavern-ConsolidateMessages
 ```
 
 ## Configuration
